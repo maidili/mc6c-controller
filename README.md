@@ -42,6 +42,7 @@ Pastikan Arduino IDE sudah terinstal dan board ESP32 sudah ditambahkan.
 Pilih board: ESP32 Dev Module.
 Upload sketch ke ESP32 dengan kabel USB.
 Pastikan semua wiring aman saat upload (cabut kabel dari motor driver jika perlu).
+saat ingin mengupload pastikan catu daya dari baterai terlepas dengan sempurna!!!!
 
 License
 Proyek ini bebas digunakan untuk keperluan edukasi dan non-komersial.
